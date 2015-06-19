@@ -30,7 +30,7 @@ EASS
 distance_threshold(0.4)
 water_threshold_upper(0.09)
 water_threshold_lower(0.06)
-path_threshold(0.03)
+path_threshold(0.09)
 
 :Initial Goals:
 

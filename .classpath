@@ -6,5 +6,7 @@
 	<classpathentry kind="lib" path="lib/ail.jar"/>
 	<classpathentry kind="lib" path="lib/3rdparty/ev3classes.jar"/>
 	<classpathentry kind="lib" path="lib/3rdparty/ev3tools.jar"/>
+	<classpathentry kind="lib" path="lib/3rdparty/jpf-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/3rdparty/jpf-classes.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

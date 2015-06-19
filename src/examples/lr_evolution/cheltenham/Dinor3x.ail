@@ -22,8 +22,8 @@
 //
 //----------------------------------------------------------------------------
 
-env = eass.ev3.cheltenham.DinoEnvironment
-mas.file = /src/examples/eass/ev3/cheltenham/Dinor3x.eass
+env = lr_evolution.cheltenham.DinoEnvironment
+mas.file = /src/examples/lr_evolution/cheltenham/Dinor3x.eass
 mas.builder = eass.EASSMASBuilder
 
 log.warning = ajpf.MCAPLAgent

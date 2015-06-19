@@ -65,7 +65,7 @@ public class DinoUI extends JTabbedPane implements ActionListener, WindowListene
 	    public static DinoEnvironment env;
 	    protected MAS mas;
 	    public static String rName = "dinor3x";
-	    protected static String program = "/src/examples/eass/ev3/cheltenham/Dinor3x.ail";
+	    protected static String program = "/src/examples/lr_evolution/cheltenham/Dinor3x.ail";
 	    
 	    // A list of all the different versions of the interface designed for different ability levels.
 	    ArrayList<TabPanel> panels = new ArrayList<TabPanel>();

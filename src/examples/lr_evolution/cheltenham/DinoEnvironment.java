@@ -59,7 +59,7 @@ public class DinoEnvironment extends EASSEV3Environment {
 	boolean do_growl = false;
 	boolean achieve_water = false;
 	
-	public double path_threshold = 0.03;
+	public double path_threshold = 0.09;
     public double dthreshold=0.4;
     public double wuthreshold=0.09;
     public double wlthreshold=0.06;
