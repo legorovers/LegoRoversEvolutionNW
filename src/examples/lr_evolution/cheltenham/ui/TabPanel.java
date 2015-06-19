@@ -69,12 +69,12 @@ public abstract class TabPanel extends DinoPanel implements ChangeListener {
 			createTabMain(ui);
 			setBackground(Color.WHITE);
 			
-			try {
+			/*try {
 				 cast_logo = ImageIO.read(new File("./src/examples/eass/ev3/cheltenham/resources/cast.png"));
 				 stfc_logo = ImageIO.read(new File("./src/examples/eass/ev3/cheltenham/resources/stfc.jpg"));
 			} catch (IOException ex) {
 				System.err.println(ex.getMessage());
-			}
+			} */
 			//JLabel cast_logo_l = new JLabel(new ImageIcon(cast_logo));
 			//JLabel stfc_logo_l = new JLabel(new ImageIcon(stfc_logo));
 			
