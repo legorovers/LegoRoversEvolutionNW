@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src/examples"/>
 	<classpathentry kind="src" path="src/classes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="lib/ail.jar"/>
+	<classpathentry kind="lib" path="/Users/joecollenette/git/LegoRoversEvolutionNW/lib/legorovers.jar"/>
 	<classpathentry kind="lib" path="lib/3rdparty/ev3classes.jar"/>
 	<classpathentry kind="lib" path="lib/3rdparty/ev3tools.jar"/>
 	<classpathentry kind="lib" path="lib/3rdparty/jpf-annotations.jar"/>
